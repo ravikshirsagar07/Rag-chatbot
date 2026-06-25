@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-spacy
+spacy==3.8.7
 faiss-cpu
 PyPDF2
 python-docx
